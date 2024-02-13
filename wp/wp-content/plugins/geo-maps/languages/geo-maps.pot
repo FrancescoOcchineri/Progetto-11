@@ -1,0 +1,311 @@
+# Copyright (C) 2022 matrixaddons
+# This file is distributed under the GPL2+.
+msgid ""
+msgstr ""
+"Project-Id-Version: Geo Maps 1.0.9\n"
+"Report-Msgid-Bugs-To: matrixaddons@gmail.com\n"
+"POT-Creation-Date: 2022-10-21 02:03:23+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2022-MO-DA HO:MI+ZONE\n"
+"Last-Translator: matrixaddons <matrixaddons@gmail.com>\n"
+"Language-Team: matrixaddons <matrixaddons@gmail.com>\n"
+"X-Generator: grunt-wp-i18n 1.0.3\n"
+
+#: includes/Admin/FieldItems/Group.php:15
+msgid "You cant remove this item. At least one item needed."
+msgstr ""
+
+#: includes/Admin/FieldItems/Group.php:60
+msgid "Sample Title"
+msgstr ""
+
+#: includes/Admin/Fields/GeneralSettings.php:11
+msgid "Marker Popup Shows on"
+msgstr ""
+
+#: includes/Admin/Fields/GeneralSettings.php:12
+msgid "You can select whether marker popup shows on mouse hover or on click."
+msgstr ""
+
+#: includes/Admin/Fields/GeneralSettings.php:16
+msgid "On Mouse Click"
+msgstr ""
+
+#: includes/Admin/Fields/GeneralSettings.php:17
+msgid "On Mouse Over"
+msgstr ""
+
+#: includes/Admin/Fields/GeneralSettings.php:22
+msgid "Default Marker Image"
+msgstr ""
+
+#: includes/Admin/Fields/GeneralSettings.php:24
+msgid ""
+"No need to add any image if you want to use default marker (which is red "
+"marker ). You can override this marker image by adding individual marker "
+"item image from Map Markers."
+msgstr ""
+
+#: includes/Admin/Fields/GeneralSettings.php:29
+#: includes/Admin/Fields/GeneralSettings.php:38
+#: includes/Admin/Fields/MarkerFields.php:93
+#: includes/Admin/Fields/MarkerFields.php:102
+msgid "Height [in px]"
+msgstr ""
+
+#: includes/Admin/Fields/GeneralSettings.php:45
+#: includes/Admin/Fields/MarkerFields.php:109
+msgid "Width [in px]"
+msgstr ""
+
+#: includes/Admin/Fields/GeneralSettings.php:56
+msgid "Scroll wheel zoom"
+msgstr ""
+
+#: includes/Admin/Fields/GeneralSettings.php:58
+msgid "Enable this to zoom on mouse scroll wheel."
+msgstr ""
+
+#: includes/Admin/Fields/GeneralSettings.php:61
+msgid "Map Control Position"
+msgstr ""
+
+#: includes/Admin/Fields/GeneralSettings.php:62
+msgid "Show or hide maps control or change the position of the control."
+msgstr ""
+
+#: includes/Admin/Fields/GeneralSettings.php:66
+msgid "Top Right"
+msgstr ""
+
+#: includes/Admin/Fields/GeneralSettings.php:67
+msgid "Top Left"
+msgstr ""
+
+#: includes/Admin/Fields/GeneralSettings.php:68
+msgid "Bottom Right"
+msgstr ""
+
+#: includes/Admin/Fields/GeneralSettings.php:69
+msgid "Bottom Left"
+msgstr ""
+
+#: includes/Admin/Fields/GeneralSettings.php:70
+msgid "Hide"
+msgstr ""
+
+#: includes/Admin/Fields/MapTypeFields.php:14
+msgid "Google Map"
+msgstr ""
+
+#: includes/Admin/Fields/MapTypeFields.php:15
+msgid "Open Street Map"
+msgstr ""
+
+#: includes/Admin/Fields/MarkerFields.php:14
+msgid "Add New Marker"
+msgstr ""
+
+#: includes/Admin/Fields/MarkerFields.php:19 includes/Meta/MarkerSetting.php:25
+msgid "Title"
+msgstr ""
+
+#: includes/Admin/Fields/MarkerFields.php:25
+msgid "Coordinates"
+msgstr ""
+
+#: includes/Admin/Fields/MarkerFields.php:29
+msgid "Location"
+msgstr ""
+
+#: includes/Admin/Fields/MarkerFields.php:42
+msgid "Latitude"
+msgstr ""
+
+#: includes/Admin/Fields/MarkerFields.php:49
+msgid "Longitude"
+msgstr ""
+
+#: includes/Admin/Fields/MarkerFields.php:58 includes/Helpers/map.php:169
+msgid "Tooltip Content"
+msgstr ""
+
+#: includes/Admin/Fields/MarkerFields.php:79
+msgid "Center Position"
+msgstr ""
+
+#: includes/Admin/Fields/MarkerFields.php:81
+msgid "Make this marker to center position on the map."
+msgstr ""
+
+#: includes/Admin/Fields/MarkerFields.php:86
+msgid "Individual Marker Image"
+msgstr ""
+
+#: includes/Admin/Fields/MarkerFields.php:88
+msgid "No need to add any image if you want to use default marker."
+msgstr ""
+
+#: includes/Admin/Templates/Metabox/Map.php:2
+msgid "Map Preview"
+msgstr ""
+
+#: includes/Admin/Templates/Metabox/Settings.php:2
+msgid "Map Settings"
+msgstr ""
+
+#: includes/Api.php:44 includes/Assets.php:75
+msgid "Please select at least one map from block setting."
+msgstr ""
+
+#: includes/Api.php:48
+msgid "Permission denied."
+msgstr ""
+
+#: includes/Api.php:52
+msgid "The map doesnt exists."
+msgstr ""
+
+#: includes/Helpers/map.php:153
+msgid "Select Map"
+msgstr ""
+
+#: includes/Helpers/map.php:168
+msgid "Tooltip Title"
+msgstr ""
+
+#: includes/Helpers/map.php:184
+msgid "Default"
+msgstr ""
+
+#: includes/Helpers/map.php:189
+msgid "OPNVKarte"
+msgstr ""
+
+#: includes/Helpers/map.php:194
+msgid "OpenTopoMap"
+msgstr ""
+
+#: includes/Helpers/map.php:199
+msgid "Stamen_TonerBackground"
+msgstr ""
+
+#: includes/Helpers/map.php:204
+msgid "Stamen_Watercolor"
+msgstr ""
+
+#: includes/Helpers/map.php:209
+msgid "Esri_WorldImagery"
+msgstr ""
+
+#: includes/Helpers/map.php:214
+msgid "Cycl OSM"
+msgstr ""
+
+#: includes/Hooks/ListTable.php:19 includes/Meta/Maps.php:28
+msgid "Shortcode"
+msgstr ""
+
+#: includes/Hooks/ListTable.php:20
+msgid "Date"
+msgstr ""
+
+#: includes/Meta/Maps.php:31
+msgid "Map Type"
+msgstr ""
+
+#: includes/Meta/Maps.php:34
+msgid "Providers / Map Theme"
+msgstr ""
+
+#: includes/Meta/Maps.php:84
+msgid "You can place this shortcode where you want to display the map."
+msgstr ""
+
+#: includes/Meta/Maps.php:123
+msgid "General Settings"
+msgstr ""
+
+#: includes/Meta/Maps.php:124
+msgid "Map Markers"
+msgstr ""
+
+#: includes/Meta/MarkerSetting.php:11
+msgid "Enable booking notification email for customer"
+msgstr ""
+
+#: includes/Meta/MarkerSetting.php:12
+msgid ""
+"This option allows you to enable/disable booking notification email for "
+"customer."
+msgstr ""
+
+#: includes/Meta/MarkerSetting.php:14
+msgid "Add new marker"
+msgstr ""
+
+#: includes/PostTypes/Maps.php:14
+msgid "Maps"
+msgstr ""
+
+#: includes/PostTypes/Maps.php:15
+msgid "Map"
+msgstr ""
+
+#: includes/PostTypes/Maps.php:16
+msgid "Add New"
+msgstr ""
+
+#: includes/PostTypes/Maps.php:17
+msgid "Add New map"
+msgstr ""
+
+#: includes/PostTypes/Maps.php:18
+msgid "Edit map"
+msgstr ""
+
+#: includes/PostTypes/Maps.php:19
+msgid "New map"
+msgstr ""
+
+#: includes/PostTypes/Maps.php:20
+msgid "All Maps"
+msgstr ""
+
+#: includes/PostTypes/Maps.php:21
+msgid "View map"
+msgstr ""
+
+#: includes/PostTypes/Maps.php:22
+msgid "Search map"
+msgstr ""
+
+#: includes/PostTypes/Maps.php:23
+msgid "No Maps found"
+msgstr ""
+
+#: includes/PostTypes/Maps.php:24
+msgid "No Maps found in the Trash"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Geo Maps"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://matrixaddons.com/downloads/geo-maps-wordpress-map-plugin/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Google Map and OpenStreet Map plugin for WordPress"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "matrixaddons"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://profiles.wordpress.org/matrixaddons"
+msgstr ""
